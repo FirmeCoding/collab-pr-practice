@@ -16,4 +16,4 @@ Welcome to our collaborative contributors page! Add your name and a short line b
 - **Scott Lardizabal-Rosen - "I had to do this again!"
 - **Stephanie Lane** - I enjoy coding !
 - **Saul Campos** - I enjoy hiking and taking walks.
-
+- **Lance Gonzalez** - i love my freedom!
