@@ -18,3 +18,4 @@ Welcome to our collaborative contributors page! Add your name and a short line b
 - **Saul Campos** - I enjoy hiking and taking walks.
 - **Lance Gonzalez** - i love my freedom!
 - **PIANKHI Iknaton** - lets get it!
+- **Elda Rocha** - This is FRUSTRATING! LOL
